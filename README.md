@@ -11,6 +11,6 @@ We LOVE NFTS and we want artists to be rewarded fairly for their hard work. Howe
 
 We exist to ensure that the Genex ecosystem is a significant contributor to the next evolution of blockchain by ensuring mainstream adoption and use of Genex blockchain solutions, this can only be achieved through a strong, healthy ecosystem that works together through collaboration, transparency and openness. At Genex, we shape the future of blockchain by nurturing a strong and healthy ecosystem that will contribute to the development of blockchain technology for generations to come. 
 
-_**Vision**_
+**Vision**
 
 Our high-performance culture applies to individuals and teams across the ecosystem who trust each other to deliver, we have the desire and capability to work together, hold each other accountable and focus on intelligent problem solving with the energy, capacity, and creativity to get things done. Our values are represented by five principles: Creativity. Intelligence. Integrity Delivery. Drive.
